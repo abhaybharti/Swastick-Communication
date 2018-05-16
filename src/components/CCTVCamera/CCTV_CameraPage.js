@@ -6,7 +6,7 @@ const CctvCamera = () => {
             <h1 className="display-3">CCTV Camear</h1>
         </div>
     );
-}
+};
 
 export default CctvCamera;
 

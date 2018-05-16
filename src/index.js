@@ -3,7 +3,7 @@ import React from 'react';
 import {render} from 'react-dom';
 import {Router, browserHistory} from 'react-router';
 import routes from './routes';
-import configureStore from './store/configureStore';
+import configureStore from './store/configureStore.prod';
 import {Provider} from 'react-redux';
 import {loadCourses} from './actions/courseActions';
 import {loadAuthors} from './actions/authorActions';
