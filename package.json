@@ -13,7 +13,9 @@
   },
   "jest": {
     "setupTestFrameworkScriptFile": "E:/Work/Projects/CRA-19Sept/__test__/setup/setupEnzyme.js",
-    "testPathIgnorePatterns": ["E:/Work/Projects/CRA-19Sept/__test__/setup"]
+    "testPathIgnorePatterns": [
+      "E:/Work/Projects/CRA-19Sept/__test__/setup"
+    ]
   },
   "devDependencies": {
     "enzyme": "^3.6.0",
